@@ -30,6 +30,9 @@
     <ClCompile Include="S2_practice2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="S5_SDD.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">
