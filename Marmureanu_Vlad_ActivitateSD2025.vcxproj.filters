@@ -33,12 +33,33 @@
     <ClCompile Include="S5_SDD.C">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="S6_SDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S4_practice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="practice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="practicee.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S7_SDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="masini2.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="masini3.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="masini_arbore.txt">
       <Filter>Source Files</Filter>
     </Text>
   </ItemGroup>
