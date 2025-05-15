@@ -130,6 +130,8 @@
   <ItemGroup>
     <ClCompile Include="practice.c" />
     <ClCompile Include="practicee.c" />
+    <ClCompile Include="S10_SDD.c" />
+    <ClCompile Include="S11_SDD.c" />
     <ClCompile Include="S2_practice.c" />
     <ClCompile Include="S2_practice2.c" />
     <ClCompile Include="S2_SDD.c" />
@@ -139,6 +141,7 @@
     <ClCompile Include="S5_SDD.C" />
     <ClCompile Include="S6_SDD.c" />
     <ClCompile Include="S7_SDD.c" />
+    <ClCompile Include="S8_SDD.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt" />

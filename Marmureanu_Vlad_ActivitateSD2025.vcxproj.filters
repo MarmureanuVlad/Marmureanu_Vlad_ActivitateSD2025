@@ -48,6 +48,15 @@
     <ClCompile Include="S7_SDD.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="S8_SDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S10_SDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S11_SDD.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">
